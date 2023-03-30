@@ -8,6 +8,10 @@ Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
+This is a solution to the [Results Summary Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).
+
+The project is hosted live on [Netlify](https://anandtheertha-results-summary-comp.netlify.app/)
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -41,6 +45,7 @@ The project is a card component which displays the results and a breif summary. 
 
 - Centering the elements using CSS Grid properties within a container.
 - Usage of Flexbox properties within a Grid layout
+- Working with box-shadows and gradients
 - Styling elements using custom CSS Variables
 - Creating color variants for different elements using hsl() property
 
