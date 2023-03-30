@@ -4,11 +4,9 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+This is a solution to the [Results Summary Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
-
-This is a solution to the [Results Summary Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).
 
 The project is hosted live on [Netlify](https://anandtheertha-results-summary-comp.netlify.app/)
 
