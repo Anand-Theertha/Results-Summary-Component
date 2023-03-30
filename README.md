@@ -40,8 +40,9 @@ The project is a card component which displays the results and a breif summary. 
 ### What I learned
 
 - Centering the elements using CSS Grid properties within a container.
-- Use 'rem' values instead of harcoded 'px' units
-- The exact working of margins and paddings for an element. 
+- Usage of Flexbox properties within a Grid layout
+- Styling elements using custom CSS Variables
+- Creating color variants for different elements using hsl() property
 
 ## Author
 
