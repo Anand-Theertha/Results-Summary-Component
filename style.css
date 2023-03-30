@@ -170,6 +170,18 @@ body {
     font-weight: var(--fw-black);
 }
 
+.summary-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    border-radius: .5rem;
+}
+
+.summary-item svg {
+    stroke: red;
+}
+
 
 
 
