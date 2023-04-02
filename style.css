@@ -224,3 +224,8 @@
   .summary-score span {
     color: var(--clr-neutral-700);
   }
+
+  .attribution a{ 
+    text-align: center;
+    text-decoration: none;
+  }
